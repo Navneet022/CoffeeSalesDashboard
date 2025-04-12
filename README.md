@@ -11,13 +11,9 @@ This project dives into the world of coffee sales using a dynamic Excel-based da
 🔍 What it includes:
 
 Monthly sales trends over time
-
 Sales breakdown by Coffee Type and Roast Type
-
 Top-performing Countries
-
 Insights into Top 5 Customers
-
 Clean and structured order, product, and customer data
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
